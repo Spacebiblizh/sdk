@@ -1,6 +1,0 @@
-framework module LizhSDK {
-  umbrella header "LizhSDK.h"
-
-  export *
-  module * { export * }
-}

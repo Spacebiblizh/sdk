@@ -1,0 +1,6 @@
+framework module Lizh {
+  umbrella header "Lizh.h"
+
+  export *
+  module * { export * }
+}
